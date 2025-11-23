@@ -1,7 +1,7 @@
 {
   "rewrites": [
     {
-      "source": "*",
+      "source": "/*",
       "destination": "https://github.com/TensulStudios/t-mod.git"
     }
   ]
